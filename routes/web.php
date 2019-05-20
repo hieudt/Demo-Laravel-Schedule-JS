@@ -12,5 +12,25 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    $listTable = [
+                '1' => [
+                        'title' => 'Bàn 1',
+                        'schedule' => 
+                                    [
+                                        0 => ['start'=>'12:00','end' => '14:00'],
+                                        1 => ['start' => '14:00','end' => '16:00'],
+                                    ]
+                    ],
+                '2' => [
+                    'title' => 'Bàn 2',
+                    'schedule' => 
+                                [
+                                    0 => ['start'=>'08:00','end' => '10:00'],
+                                    1 => ['start' => '10:00','end' => '12:00'],
+                                ]
+                    ],
+                ];
+
+    
+    return view('welcome',compact('listTable'));
 });
