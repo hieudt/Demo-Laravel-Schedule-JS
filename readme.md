@@ -1,7 +1,7 @@
 
 
 ## Data variable 
-``` laravel
+``` php
 $listTable = [
                 '1' => [
                         'title' => 'Bàn 1',
