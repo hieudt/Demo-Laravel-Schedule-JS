@@ -1,4 +1,4 @@
-## Learning Laravel
+## Schedule JS with Laravel
 Simple Daily Schedule Plugin with jQuery and jQuery UI - Schedule <br/>
 [Live Demo](https://www.jqueryscript.net/demo/Simple-Daily-Schedule-Plugin-with-jQuery-and-jQuery-UI-Schedule/)
 [Download](https://www.jqueryscript.net/time-clock/Simple-Daily-Schedule-Plugin-with-jQuery-and-jQuery-UI-Schedule.html?fbclid=IwAR1rHcijqyhwnH4mM2eIlmmKdaPWmDhipe8wVra9oMsrg1q40wPahp_xLpU)
